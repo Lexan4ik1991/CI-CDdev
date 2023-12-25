@@ -1,3 +1,0 @@
-include:
-  - local: local-test.gitlab.yml
-  - remote: https://raw.githubusercontent.com/Lexan4ik1991/CI-CDdev/main/Hwork4/local-test.gitlab.yml
